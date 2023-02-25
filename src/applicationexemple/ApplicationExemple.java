@@ -11,6 +11,7 @@ public class ApplicationExemple {
      */
     public static void main(String[] args) {
         // This project is to practice Github
+        (new MainFrame()).setVisible(true);
     }
     
 }
